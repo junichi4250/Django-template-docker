@@ -1,1 +1,3 @@
-./app/source/config/__pycache__
+app/source/config/__pycache__
+app/source/polls/__pycache__
+app/source/polls/migrations/__pycache__
