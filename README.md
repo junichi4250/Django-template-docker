@@ -5,5 +5,8 @@ https://self-methods.com/django-docker-easy/
 https://docs.djangoproject.com/ja/4.1/intro/tutorial01/
 
 ## 管理ユーザー
-username: root
+username: root  
 password: root
+
+## 自動テスト実行
+`$ python manage.py test polls`
